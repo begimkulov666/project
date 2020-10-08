@@ -1,0 +1,27 @@
+
+@media screen and (max-width:978px) {
+
+.example-title{
+    font-size: 15px;
+}
+.col-3{
+    width: 33.33%;
+}
+}
+@media screen and (max-width:768px){
+  .title{
+      font-size: 22px;
+  }
+    .example-title{
+        font-size: 14px;
+    }
+    .col-3{
+        width: 50%;
+    }
+}
+@media screen and (max-width:550px){
+
+    .col-3{
+        width: 100%;
+    }
+}
